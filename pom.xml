@@ -47,6 +47,7 @@
 			<artifactId>commons-httpclient</artifactId>
 			<version>${httpclient.version}</version>
 		</dependency>
+		alsdkfjasd;lfkjads;flj
 		<dependency>
 			<groupId>javax.ws.rs</groupId>
 			<artifactId>javax.ws.rs-api</artifactId>
