@@ -53,6 +53,11 @@
 			<version>${jax.ws.rs}</version>
 		</dependency>
 		<dependency>
+			<groupId>javax.ws.rs</groupId>
+			<artifactId>javax.ws.rs-api</artifactId>
+			<version>${jax.ws.rs}</version>
+		</dependency>
+		<dependency>
 			<groupId>org.codehaus.jackson</groupId>
 			<artifactId>jackson-jaxrs</artifactId>
 			<version>${jackson.version}</version>
